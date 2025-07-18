@@ -34,5 +34,9 @@ JobHunt is a simple Spring Boot backend project to manage job postings by admins
 | GET    | `/api/posts/experience/{exp}` | Filter by experience       |
 | GET    | `/api/posts/role/{role}`    | Filter by role               |
 
----
 
+
+
+
+
+  
