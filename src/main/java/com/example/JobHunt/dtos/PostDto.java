@@ -16,6 +16,8 @@ import lombok.Builder;
 @Builder
 public class PostDto {
 
+    private Long id;
+
     @NotBlank(message = "CompanyName is required")
     @Size(max = 100)
     private String name;
