@@ -39,15 +39,4 @@ JobHunt is a simple Spring Boot backend project to manage job postings by admins
 
 
 
-
-
-
-# JobHunt Project Screenshots
-
-![Screenshot1](Screenshot 2025-07-18 201132.png)
-![Screenshot2](Screenshot 2025-07-18 201220.png)
-![Screenshot3](Screenshot 2025-07-18 201234.png)
-
-
----
-
+  
